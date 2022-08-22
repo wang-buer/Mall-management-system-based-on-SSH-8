@@ -1,6 +1,13 @@
-# 基于SSH的商城管理系统8
+# 基于SSH的商城管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**商城8** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSH的商城管理系统8拥有三种角色
 
 管理员：用户管理、配送员管理、类别管理、商品管理、订单管理、订单发货等
@@ -9,35 +16,64 @@
 
 配送员：添加物流信息等
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：SSH（Struts+Spring+Hibernate）
+
+前端技术：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven版本：不需要
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![管理员登陆](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742775.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.2 用户模块
 
-#### 参与贡献
+![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742632.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742259.jpg)
+
+![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742236.jpg)
+
+![用户历史订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742456.jpg)
+
+### 4.3 配送员模块
+
+![配送员-添加物流信息-](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742215.jpg)
+
+![配送员商品订单查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742905.jpg)
+
+### 4.4 管理员模块
+
+![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742484.jpg)
+
+![管理员-配送员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742791.jpg)
+
+![管理员-类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742200.jpg)
+
+![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742653.jpg)
+
+![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742562.jpg)
+
+![管理员-订单发货](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742531.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ： **商城8**，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
